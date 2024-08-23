@@ -1,0 +1,8 @@
+# Ignore everything in the out directory
+out/
+
+# Ignore everything in the .idea directory
+.idea/
+
+# Ignore everything in the target directory
+target/
