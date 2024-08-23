@@ -1,0 +1,203 @@
+{
+    "0": [
+        {
+            "A": 25,
+            "limitA": null,
+
+            "B": 50,
+            "limitB": 40.00,
+
+            "C": 90,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": 85.00,
+
+            "E": 15,
+            "limitE": null,
+
+            "monthlyAmountLimit": 0.00
+        }
+    ],
+
+    "100": [
+        {
+            "A": 35,
+            "limitA": null,
+
+            "B": 25,
+            "limitB": 50.00,
+
+            "C": 95,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": 75.00,
+
+            "E": 25,
+            "limitE": null,
+            
+            "monthlyAmountLimit": 250.00
+        }
+    ],
+    "150": [
+        {
+            "A": 0,
+            "limitA": null,
+
+            "B": 0,
+            "limitB": null,
+
+            "C": 85,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": 150.00,
+
+            "E": 15,
+            "limitE": null,
+
+            "monthlyAmountLimit": 0.00
+        }
+    ],
+    "175": [
+        {
+            "A": 50,
+            "limitA": null,
+
+            "B": 75,
+            "limitB": null,
+
+            "C": 90,
+            "limitC": null,
+
+            "D": 95,
+            "limitD": null,
+
+            "E": 25,
+            "limitE": 20.00,
+
+            "monthlyAmountLimit": 200.00
+        }
+    ],
+    "200": [
+        {
+            "A": 25,
+            "limitA": null,
+
+            "B": 100,
+            "limitB": null,
+
+            "C": 90,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": 100.00,
+
+            "E": 12,
+            "limitE": null,
+
+            "monthlyAmountLimit": 250.00
+        }
+    ],
+    "300": [
+        {
+            "A": 0,
+            "limitA": null,
+
+            "B": 50,
+            "limitB": null,
+
+            "C": 90,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": null,
+
+            "E": 60,
+            "limitE": null,
+
+            "monthlyAmountLimit": 0.00
+        }
+    ],
+    "400": [
+        {
+            "A": 0,
+            "limitA": null,
+
+            "B": 0,
+            "limitB": null,
+
+            "C": 90,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": 65.00,
+
+            "E": 25,
+            "limitE": 15.00,
+
+            "monthlyAmountLimit": 0.00
+        }
+    ],
+    "500": [
+        {
+            "A": 25,
+            "limitA": null,
+
+            "B": 50,
+            "limitB": 50.00,
+
+            "C": 90,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": null,
+
+            "E": 30,
+            "limitE": 20.00,
+
+            "monthlyAmountLimit": 150.00
+        }
+    ],
+    "600": [
+        {
+            "A": 40,
+            "limitA": null,
+
+            "B": 100,
+            "limitB": null,
+
+            "C": 75,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": 100.00,
+
+            "E": 15,
+            "limitE": null,
+
+            "monthlyAmountLimit": 300.00
+        }
+    ],
+    "700": [
+        {
+            "A": 0,
+            "limitA": null,
+
+            "B": 70,
+            "limitB": null,
+
+            "C": 90,
+            "limitC": null,
+
+            "D": 100,
+            "limitD": 90.0,
+
+            "E": 22,
+            "limitE": null,
+
+            "monthlyAmountLimit": 0.00
+        }
+    ]
+}
